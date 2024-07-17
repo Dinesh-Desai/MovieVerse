@@ -7,9 +7,6 @@ import { useNavigate, useLocation } from "react-router-dom";
 import "./style.scss";
 
 import ContentWrapper from "../contentWrapper/ContentWrapper";
-import logo from "../../assets/movix-logo.svg";
-import images from "../../assets/images3.jpg"
-import rename from "../../assets/rename.png";
 
 const Header = () => {
 
